@@ -1,5 +1,5 @@
-pluginframework-archetype
-=========================
+PluginFramework Quickstart Archetype
+====================================
 
 Maven Archetype for a PluginFramework Plugin.
 
