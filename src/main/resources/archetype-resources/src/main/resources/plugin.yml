@@ -1,0 +1,18 @@
+name: ${artifactId}
+main: ${package}.Bukkit${artifactId}Plugin
+version: 0.1
+description: ${artifactId} - A PluginFramework Plugin
+database: false
+commands:
+  exampleecho:
+    description: Echo whatever follows to the sender
+    usage: /<command> message to echo
+  exampletranslate:
+    description: Returns the translated key
+    usage: /<command> keyname
+  exampleconfig:
+    description: Show a config value
+    usage: /<command>
+  exampleservice:
+      description: Show a value from a service
+      usage: /<command>
