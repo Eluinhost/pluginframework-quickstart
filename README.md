@@ -22,7 +22,6 @@ Instructs Maven to compile for Java 6 to support every server that Bukkit suppor
 - JUnit
 - Mockito
 - PowerMockito
-- AssertJ
 
 To change the versions of any dependencies you can change the property for it in the pom.xml
 
